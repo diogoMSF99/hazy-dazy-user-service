@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: hazy-dazy-user-service
